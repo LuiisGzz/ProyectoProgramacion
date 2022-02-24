@@ -1,0 +1,3 @@
+﻿  ProyectoProgramacion.cpp
+C:\Users\luis_\OneDrive\Documents\Programación\Repos\ProyectoProgramacion\ProyectoProgramacion.cpp(10,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  ProyectoProgramacion.vcxproj -> C:\Users\luis_\OneDrive\Documents\Programación\Repos\ProyectoProgramacion\x64\Debug\ProyectoProgramacion.exe
